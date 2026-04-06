@@ -1,4 +1,4 @@
-## Java Maven Project - My App
+## DevOps-Maven-Project- My App
 
 ### Project Overview
 This is a simple Java application built using Maven and automated with Jenkins. 
